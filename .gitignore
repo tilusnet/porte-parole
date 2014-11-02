@@ -1,0 +1,4 @@
+# these "submodules" should be symlinked and not version controlled:
+ext/Nebula
+ext/LanguageSourceData
+ext/LangClassify
