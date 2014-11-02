@@ -1,0 +1,6 @@
+[submodule "ext/TrendingPhrases"]
+	path = ext/TrendingPhrases
+	url = git@github.com:tilusnet/TrendingPhrases.git
+[submodule "ext/LiveLMData"]
+	path = ext/LiveLMData
+	url = git@github.com:tilusnet/LiveLMData.git
